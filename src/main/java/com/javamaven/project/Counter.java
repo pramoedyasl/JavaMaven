@@ -2,26 +2,26 @@ package com.javamaven.project;
 
 public class Counter {
 
-	int _x;
-    int _y;
-    int _result;
+	int _xs;
+    int _ys;
+    int _esult;
 
     public Counter(int x, int y, int result) {
-        _x = x;
-        _y = y;
-        _result = result;
+        _xs = x;
+        _ys = y;
+        _esult = result;
     }
 
     public int getX() {
-        return _x;
+        return _xs;
     }
 
     public int getY() {
-        return _y;
+        return _ys;
     }
 
     public int getResult() {
-        return _result;
+        return _esult;
     }
 
     
