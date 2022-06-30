@@ -7,7 +7,7 @@ public class CounterTest {
 
 	@Test
     public void testTambah() {
-        assertEquals(34, new Driver().Tambah(8, 26).getResult());
+        assertEquals(20, new Driver().Tambah(8, 26).getResult());
     }
 
     @Test
