@@ -6,8 +6,8 @@ import org.junit.Test;
 public class CounterTest {
 
 	@Test
-    public void testAdd() {
-        assertEquals(34, new Driver().Add(8, 26).getResult());
+    public void testTambah() {
+        assertEquals(34, new Driver().Tambah(8, 26).getResult());
     }
 
     @Test
