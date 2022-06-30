@@ -20,11 +20,11 @@
 </dependencies>
   
 <distributionManagement>
-  <repository>
-    <id>github</id>
-    <name>GitHub Packages</name>
-    <url>https://maven.pkg.github.com/pramoedyasl/JavaMaven</url>
-  </repository>
+   <repository>
+     <id>github</id>
+     <name>GitHub Packages</name>
+     <url>https://maven.pkg.github.com/pramoedyasl/JavaMaven</url>
+   </repository>
 </distributionManagement>
 
   <properties>
