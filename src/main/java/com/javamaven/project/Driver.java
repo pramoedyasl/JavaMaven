@@ -2,9 +2,10 @@ package com.javamaven.project;
 
 import javax.ws.rs.QueryParam;
 
+
 public class Driver {
 
-	public Counter Add(@QueryParam("x") int x, @QueryParam("y") int y) {
+	public Counter Tambah(@QueryParam("x") int x, @QueryParam("y") int y) {
         return new Counter(x, y, x + y);
     }
 
