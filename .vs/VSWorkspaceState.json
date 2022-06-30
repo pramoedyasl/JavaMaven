@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\bin",
+    "\\bin\\src",
+    "\\bin\\src\\main",
+    "\\bin\\src\\main\\java"
+  ],
+  "SelectedNode": "\\bin\\src\\main\\java\\Counter.class",
+  "PreviewInSolutionExplorer": false
+}
